@@ -1,0 +1,22 @@
+{
+  "name": "mern_example",
+  "version": "1.0.0",
+  "description": "MERN stack setup example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangrt5/mern-example.git"
+  },
+  "author": "Randy Dang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangrt5/mern-example/issues"
+  },
+  "homepage": "https://github.com/dangrt5/mern-example#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
